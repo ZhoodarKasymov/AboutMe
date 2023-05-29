@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a7a239f2.chunk.css",
+    "main.js": "./static/js/main.f51dfdf0.chunk.js",
+    "main.js.map": "./static/js/main.f51dfdf0.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
+    "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
+    "static/js/2.aa2b4be7.chunk.js": "./static/js/2.aa2b4be7.chunk.js",
+    "static/js/2.aa2b4be7.chunk.js.map": "./static/js/2.aa2b4be7.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.0a6dbe50feea71095a27b796356eaec7.js": "./precache-manifest.0a6dbe50feea71095a27b796356eaec7.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.a7a239f2.chunk.css.map": "./static/css/main.a7a239f2.chunk.css.map",
+    "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Efsol.png": "./static/media/Efsol.8f593200.png",
+    "static/media/TurnKey.png": "./static/media/TurnKey.1b9975d8.png",
+    "static/media/animated_logo.svg": "./static/media/animated_logo.dcd6dee2.svg",
+    "static/media/cloud_infrastructure.svg": "./static/media/cloud_infrastructure.34a334dd.svg",
+    "static/media/experience.svg": "./static/media/experience.a00ede3f.svg",
+    "static/media/experience.png": "./static/media/experience.f0effeca.png",
+    "static/media/all.css": "./static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/fullstack.svg": "./static/media/fullstack.fce60807.svg",
+    "static/media/gcp_logo.png": "./static/media/gcp_logo.0ee7e8c9.png",
+    "static/media/github_logo.png": "./static/media/github_logo.6eeb2e81.png",
+    "static/media/muffito_logo.png": "./static/media/muffito_logo.069938a8.png",
+    "static/media/my-photo.jpg": "./static/media/my-photo.21468387.jpg",
+    "static/media/nptel_logo.png": "./static/media/nptel_logo.95a12a2b.png",
+    "static/media/pngwing.com.png": "./static/media/pngwing.com.0ca8dc28.png",
+    "static/media/programmer.svg": "./static/media/programmer.e083645c.svg",
+    "static/media/pwa.png": "./static/media/pwa.71408db7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fff6ee50.js",
+    "static/js/2.aa2b4be7.chunk.js",
+    "static/css/main.a7a239f2.chunk.css",
+    "static/js/main.f51dfdf0.chunk.js"
+  ]
+}
